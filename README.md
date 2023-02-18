@@ -1,6 +1,6 @@
-<h1 style="text-align: center"> Oi... eu so a Bruna 🙃</h1>
+<h1 style="text-align: center"> Oi... eu sou a Bruna 🙃</h1>
 
-- 🕮 Aprendendo desensvolvimento web;
+- 🕮 Aprendendo desenvolvimento web;
 - 🎮 Jogo favorito: TLOU;
 - 🦁 Desenho favorito: Steven Universo;
 - 😄 Pronomes: ela/dela;
