@@ -14,8 +14,8 @@
 
 <div style="text-align: center">
   <a href="https://github.com/nOpfiNe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nOpfiNe&show_icons=true&theme=radical"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nOpfiNe&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nOpfiNe&show_icons=true&theme=radical"/>
 </div>
   
   ##
