@@ -1,8 +1,7 @@
 <h1 style="text-align: center"> Oi... eu sou a Bruna 🙃</h1>
 
-- 🕮 Aprendendo desenvolvimento web;
-- 🎮 Jogo favorito: TLOU;
-- 🦁 Desenho favorito: Steven Universo;
+- 🕮 Faculdade Federal de Uberlândia;
+- 🎮 Apenas jogando;
 - 😄 Pronomes: ela/dela;
 
 
@@ -14,7 +13,7 @@
 
 <div style="text-align: center">
   <a href="https://github.com/nOpfiNe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nOpfiNe&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src=""/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nOpfiNe&show_icons=true&theme=radical"/>
 </div>
   
